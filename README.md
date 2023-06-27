@@ -20,6 +20,7 @@ Adjust the segmentation parameters (scale, sigma, and size_threshold) according 
 Run the script and the segmented image with visualizations will be displayed.
 
 Description
+
 The code performs the following steps:
 
 Loads the input image using the specified image_path.
@@ -32,6 +33,7 @@ Displays the original image, segmented image using a jet colormap, segmented ima
 
 
 References
+
 Felzenszwalb, P. F., & Huttenlocher, D. P. (2004). Efficient graph-based image segmentation. International Journal of Computer Vision, 59(2), 167-181.
 scikit-image: https://scikit-image.org/
 matplotlib: https://matplotlib.org/
