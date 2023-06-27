@@ -29,6 +29,8 @@ Generates a boundary overlay image using the mark_boundaries() function to visua
 Creates a color overlay image using the label2rgb() function to visualize the segmented regions with different colors.
 Calculates the total number of segments generated using the regionprops() function.
 Displays the original image, segmented image using a jet colormap, segmented image with color overlay, and the boundary overlay image using matplotlib.
+
+
 References
 Felzenszwalb, P. F., & Huttenlocher, D. P. (2004). Efficient graph-based image segmentation. International Journal of Computer Vision, 59(2), 167-181.
 scikit-image: https://scikit-image.org/
